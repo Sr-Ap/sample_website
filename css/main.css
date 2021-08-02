@@ -5,3 +5,55 @@
       .nav-spacing{
         margin: 0 0 0 10px;
       }
+
+      .image-link{
+        text-decoration: none;
+      }
+
+      .menu-link{
+        text-decoration: none; 
+        color: blue;
+      }
+
+      .table-data{
+        padding: 10px;
+      }
+
+      .small-quotes{
+        padding: 2px 20px; 
+        background: #ededed;
+      }
+
+      .header{
+        text-align: center; 
+        margin: 0 0 80px;
+      }
+
+      .centered-image{
+        display: block;
+        margin: 0 auto;
+      }
+
+      .centered-div{
+        width: 500px; 
+        margin: 20px auto; 
+        padding: 30px; 
+        background-color: #fafafa;
+      }
+
+      .floated-left-image{
+        float: left; 
+        margin: 0 40px 0 0;
+      }
+
+      .big-quotes{
+        font-style: italic;
+        font-size: 20px;
+      }
+
+      .big-red-letters{
+        font-style: normal;
+        font-size: 24px;
+        font-weight: bold;
+        color: #ff0000
+      }
